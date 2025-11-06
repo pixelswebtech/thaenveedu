@@ -3,27 +3,27 @@ import { useState, useEffect } from "react"
 
 const items = [
   { 
-    name: "Amira", 
+    name: "Gabriel Prasana Raj", 
     text: "The richest honey I have ever tasted—silky, floral, unforgettable. It's become a staple in my kitchen!",
-    location: "New York, NY",
+    location: "Sevvapettai, Thiruvallur",
     rating: 5
   },
   { 
-    name: "Jon", 
+    name: "Jameel", 
     text: "A spoonful in tea feels like a small ritual of comfort. The quality is unmatched and you can taste the difference.",
-    location: "Portland, OR",
+    location: "Muthupet, Thiruvarur",
     rating: 5
   },
   { 
     name: "Priya", 
     text: "Beautifully bottled and beautifully made. A pantry essential that I gift to everyone I know.",
-    location: "Austin, TX",
+    location: "Chennai, Tamil Nadu",
     rating: 5
   },
   { 
-    name: "Marcus", 
+    name: "Jobin", 
     text: "As a chef, I'm particular about ingredients. This honey elevates every dish. Truly exceptional.",
-    location: "San Francisco, CA",
+    location: "kanyakumari",
     rating: 5
   },
 ]

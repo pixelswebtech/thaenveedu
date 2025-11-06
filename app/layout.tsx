@@ -19,6 +19,11 @@ const lora = Lora({
 export const metadata: Metadata = {
   title: "Thaenveedu",
   description: "Pure, raw honey sourced from sustainable apiaries. Discover our premium collection of Wildflower, Clover, Manuka, and Acacia honey - 100% natural with no artificial additives.",
+  icons: {
+    icon: [
+      { url: "/beefavicon.svg", type: "image/svg+xml", rel: "icon", sizes: "any" },
+    ],
+  },
 }
 
 export default function RootLayout({
