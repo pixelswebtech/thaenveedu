@@ -4,6 +4,7 @@ import { Inter, Lora } from "next/font/google"
 import "./globals.css"
 import { Suspense } from "react"
 import { Toaster } from "@/components/ui/sonner"
+import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({
   subsets: ["latin"],
@@ -36,6 +37,7 @@ export default function RootLayout({
       <body className="font-sans">
         <Suspense fallback={<div>Loading...</div>}>{children}</Suspense>
         <Toaster richColors position="top-center" closeButton duration={5000} />
+        <Analytics />
       </body>
     </html>
   )
