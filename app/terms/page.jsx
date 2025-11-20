@@ -29,7 +29,7 @@ export default function TermsPage() {
 
         <h2>1. Agreement to Terms</h2>
         <p>
-          By accessing or using The Golden Hive website and services, you agree to be bound by these Terms and Conditions. If you do not agree, please do not use our services.
+          By accessing or using The Thaenveedu website and services, you agree to be bound by these Terms and Conditions. If you do not agree, please do not use our services.
         </p>
 
         <h2>2. Purchases</h2>
@@ -44,7 +44,7 @@ export default function TermsPage() {
 
         <h2>4. Intellectual Property</h2>
         <p>
-          All content, trademarks, and data on this site are the property of The Golden Hive and protected by intellectual property laws.
+          All content, trademarks, and data on this site are the property of The Thaenveedu and protected by intellectual property laws.
         </p>
 
         <h2>5. Contact Us</h2>

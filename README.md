@@ -1,8 +1,8 @@
-# 🐝 The Golden Hive - E-Commerce Platform
+# 🐝 The Thaenveedu - E-Commerce Platform
 
 A modern, production-ready e-commerce platform for artisanal honey products. Built with Next.js 15, React 18, and Tailwind CSS 4.
 
-![The Golden Hive](https://images.unsplash.com/photo-1587049352846-4a222e784720?w=1200&q=80)
+![The Thaenveedu](https://images.unsplash.com/photo-1587049352846-4a222e784720?w=1200&q=80)
 
 ## ✨ Features
 
@@ -272,4 +272,4 @@ thaenveedu@gmail.com or visit our contact page.
 
 ---
 
-**Built with 🍯 by The Golden Hive Team**
+**Built with 🍯 by The Thaenveedu Team**

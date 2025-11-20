@@ -5,7 +5,7 @@ export default function Story() {
         <div className="order-2 md:order-1">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif leading-tight">From Hive to Heart</h2>
           <p className="mt-4 md:mt-6 text-base sm:text-lg text-muted-foreground leading-relaxed">
-            At The Golden Hive, we steward the ancient craft of beekeeping with gentle hands and patient hearts. Our
+            At The Thaenveedu, we steward the ancient craft of beekeeping with gentle hands and patient hearts. Our
             honey is gathered in small batches, filtered by time and sunlight, preserving the floral whispers of every
             season.
           </p>

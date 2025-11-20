@@ -29,7 +29,7 @@ export default function PrivacyPage() {
 
         <h2>Introduction</h2>
         <p>
-          The Golden Hive respects your privacy and is committed to protecting your personal data. This policy explains how we collect, use, and safeguard your information when you use our website and services.
+          The Thaenveedu respects your privacy and is committed to protecting your personal data. This policy explains how we collect, use, and safeguard your information when you use our website and services.
         </p>
 
         <h2>Information We Collect</h2>
